@@ -1,7 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5e27fea-ec86-4158-b0b0-27e06e51289e" name="Default" comment="" />
+    <list default="true" id="f5e27fea-ec86-4158-b0b0-27e06e51289e" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\work\projects\java\coursera\scala\week3\objsets\target\scala-2.10\test-classes\objsets\TweetSetSuite$$anonfun$1$$anon$1$$anonfun$8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\work\projects\java\coursera\scala\week3\objsets\target\scala-2.10\test-classes\objsets\TweetSetSuite$$anonfun$2$$anon$2$$anonfun$9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\work\projects\java\coursera\scala\week3\objsets\target\scala-2.10\test-classes\objsets\TweetSetSuite$$anonfun$3$$anon$3$$anonfun$10.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/Challenge$.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/Challenge$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/Challenge.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/Challenge.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Cons.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Cons.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anon$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anon$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$2.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$executeRequest$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$executeRequest$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$executeRequest$2.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$executeRequest$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$executeRequest$3.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$executeRequest$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$extractJson$1$$anonfun$apply$6.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$extractJson$1$$anonfun$apply$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$extractJson$1$$anonfun$liftedTree2$1$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$extractJson$1$$anonfun$liftedTree2$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$extractJson$1$$anonfun$liftedTree2$1$2.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$extractJson$1$$anonfun$liftedTree2$1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$extractJson$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$extractJson$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$fullExceptionString$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$fullExceptionString$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$getChallenge$1$$anonfun$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$getChallenge$1$$anonfun$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$getChallenge$1$$anonfun$apply$2.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$getChallenge$1$$anonfun$apply$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$getChallenge$1$$anonfun$apply$3.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$getChallenge$1$$anonfun$apply$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$getChallenge$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$getChallenge$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$liftedTree1$1$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$liftedTree1$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$liftedTree1$1$2.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$liftedTree1$1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$liftedTree1$1$3.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$liftedTree1$1$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$1$$anonfun$apply$7.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$1$$anonfun$apply$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$10.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$11.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$8$$anonfun$apply$9.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$8$$anonfun$apply$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$8.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$2.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$3.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$4.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$5$$anonfun$apply$4.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$5$$anonfun$apply$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$5$$anonfun$apply$5.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$5$$anonfun$apply$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$5.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$2.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$3.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$4.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/DeprectaionForwarder$.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/DeprectaionForwarder$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Empty.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Empty.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/GoogleVsApple$.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/GoogleVsApple$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Main$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Main$$anonfun$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Main$.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Main$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Main$delayedInit$body.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Main$delayedInit$body.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Nil$.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Nil$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/NonEmpty.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/NonEmpty.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/QueueResult$.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/QueueResult$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/QueueResult.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/QueueResult.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/TweetList$class.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/TweetList$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/TweetSet.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/TweetSet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$1$$anon$1.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$1$$anon$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$2$$anon$2.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$2$$anon$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$2.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$3$$anon$3.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$3$$anon$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$3.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$4$$anon$4.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$4$$anon$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$4.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$5$$anon$5.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$5$$anon$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$5.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$6$$anon$6.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$6$$anon$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$6.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$7$$anon$7.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$7$$anon$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$7.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$asSet$1.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$asSet$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$TestSets$class.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$TestSets$class.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$TestSets.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$TestSets.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/inc_compile" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/inc_compile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/test/inc_compile" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/test/inc_compile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/cache/assignment/compile/inc_compile" afterPath="$PROJECT_DIR$/target/scala-2.10/cache/assignment/compile/inc_compile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/cache/assignment/test/inc_compile" afterPath="$PROJECT_DIR$/target/scala-2.10/cache/assignment/test/inc_compile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/for_packageSubmission/inputs" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/for_packageSubmission/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/global/update/inputs" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/global/update/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/global/update/output" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/global/update/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/progfun-recfun_2.10-1.0.0.jar" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/progfun-recfun_2.10-1.0.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/.history" afterPath="$PROJECT_DIR$/../../recfun/target/.history" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../funsets/src/main/scala/funsets/FunSets.scala" afterPath="$PROJECT_DIR$/../../funsets/src/main/scala/funsets/FunSets.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala" afterPath="$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala" afterPath="$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/$global/$global/data" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/$global/$global/data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/project/target/streams/$global/ivy-configuration/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/project/target/streams/$global/ivy-configuration/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/project/target/streams/$global/update/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/project/target/streams/$global/update/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/project/target/streams/compile/compile/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/project/target/streams/compile/compile/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/project/target/streams/compile/copy-resources/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/project/target/streams/compile/copy-resources/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/streams/$global/compilers/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/target/streams/$global/compilers/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/streams/$global/ivy-configuration/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/target/streams/$global/ivy-configuration/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/streams/$global/update/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/target/streams/$global/update/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/streams/compile/compile/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/target/streams/compile/compile/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/streams/compile/copy-resources/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/target/streams/compile/copy-resources/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/$global/compilers/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/$global/compilers/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/$global/ivy-configuration/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/$global/ivy-configuration/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/$global/submit/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/$global/submit/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/$global/update/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/$global/update/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/compile/compile/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/compile/compile/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/compile/copy-resources/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/compile/copy-resources/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/compile/packageSubmission/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/compile/packageSubmission/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/compile/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/compile/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/copy-resources/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/copy-resources/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/defined-tests/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/defined-tests/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/loaded-test-frameworks/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/loaded-test-frameworks/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/test/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/test/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.BalanceSuite/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.BalanceSuite/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.CountChangeSuite/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.CountChangeSuite/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.PascalSuite/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.PascalSuite/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/compile/$global/out" afterPath="$PROJECT_DIR$/target/streams/test/compile/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/defined-tests/$global/out" afterPath="$PROJECT_DIR$/target/streams/test/defined-tests/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/$global/out" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/is-module=false name=objsets.TweetSetSuite/out" afterPath="$PROJECT_DIR$/target/streams/test/test/is-module=false name=objsets.TweetSetSuite/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/for_packageSubmission/output" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/for_packageSubmission/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile-internal.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-docs.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-optional.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-plugin.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-pom.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-provided.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-runtime-internal.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-runtime.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-sources.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-test-internal.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-test.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/test/succeeded_tests" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/test/succeeded_tests" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/cache/assignment/test/succeeded_tests" afterPath="$PROJECT_DIR$/target/scala-2.10/cache/assignment/test/succeeded_tests" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../../recfun/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../alg1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../alg1/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../recfun/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="progfun-objsets.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,8 +174,8 @@
       <file leaf-file-name="TweetSet.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27549824" vertical-offset="3065" max-vertical-offset="4820">
-              <caret line="165" column="14" selection-start-line="165" selection-start-column="14" selection-end-line="165" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.39007092" vertical-offset="3760" max-vertical-offset="4980">
+              <caret line="199" column="17" selection-start-line="199" selection-start-column="17" selection-end-line="199" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -46,8 +184,8 @@
       <file leaf-file-name="TweetSetSuite.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1500">
-              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="696" max-vertical-offset="1680">
+              <caret line="58" column="3" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -100,9 +238,13 @@
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala" />
       </list>
     </option>
@@ -116,7 +258,7 @@
     <option name="width" value="1296" />
     <option name="height" value="1010" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -525,16 +667,16 @@
       <updated>1400000348261</updated>
       <workItem from="1400000349787" duration="871000" />
       <workItem from="1400171118970" duration="2000" />
-      <workItem from="1400171138273" duration="6673000" />
+      <workItem from="1400171138273" duration="7998000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7546000" />
+    <option name="totallyTimeSpent" value="8871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -544,8 +686,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291714" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287827" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -667,6 +809,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="696" max-vertical-offset="1680">
+          <caret line="58" column="3" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/common/package.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="40" max-vertical-offset="920">
@@ -675,18 +825,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1500">
-          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27549824" vertical-offset="3065" max-vertical-offset="4820">
-          <caret line="165" column="14" selection-start-line="165" selection-start-column="14" selection-end-line="165" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.39007092" vertical-offset="3760" max-vertical-offset="4980">
+          <caret line="199" column="17" selection-start-line="199" selection-start-column="17" selection-end-line="199" selection-end-column="17" />
           <folding />
         </state>
       </provider>
