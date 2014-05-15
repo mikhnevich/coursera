@@ -1,0 +1,5 @@
+[debug] Running Test objsets.TweetSetSuite : subclass(false, org.scalatest.Suite) with arguments 
+[error] Failed: : Total 7, Failed 1, Errors 0, Passed 6, Skipped 0
+[error] Failed tests:
+[error] 	objsets.TweetSetSuite
+[error] (assignment/test:test) sbt.TestsFailedException: Tests unsuccessful
