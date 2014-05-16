@@ -5,8 +5,7 @@ package objsets
  */
 class Tweet(val user: String, val text: String, val retweets: Int) {
   override def toString: String =
-    "User: " + user + "\n" +
-            "Text: " + text + " [" + retweets + "]"
+    "User: " + user + ", Text: " + text + " [" + retweets + "]"
 }
 
 /**
@@ -52,7 +51,7 @@ abstract class TweetSet {
    * Question: Should we implment this method here, or should it remain abstract
    * and be implemented in the subclasses?
    */
-  def union(that: TweetSet): TweetSet
+  def union(that: TweetSet): TweetSet = that.filterAcc(tweet => true, this)
 
   /**
    * Returns the tweet from this set which has the greatest retweet count.
@@ -102,6 +101,8 @@ abstract class TweetSet {
    */
   def foreach(f: Tweet => Unit): Unit
 
+  def isEmpty: Boolean
+
 }
 
 class Empty extends TweetSet {
@@ -125,7 +126,7 @@ class Empty extends TweetSet {
    * Returns a new `TweetSet` that is the union of `TweetSet`s `this` and `that`.
    *
    */
-  def union(that: TweetSet): TweetSet = that
+  //  def union(that: TweetSet): TweetSet = that
 
   /**
    * Returns the tweet from this set which has the greatest retweet count.
@@ -137,6 +138,8 @@ class Empty extends TweetSet {
   def mostRetweeted: Tweet = throw new NoSuchElementException
 
   def descendingByRetweet: TweetList = Nil
+
+  def isEmpty: Boolean = true
 }
 
 class NonEmpty(elem: Tweet, left: TweetSet, right: TweetSet) extends TweetSet {
@@ -177,22 +180,26 @@ class NonEmpty(elem: Tweet, left: TweetSet, right: TweetSet) extends TweetSet {
    * Returns a new `TweetSet` that is the union of `TweetSet`s `this` and `that`.
    *
    */
-  def union(that: TweetSet): TweetSet = right.union(left.union(that.incl(elem)))
+  //  def union(that: TweetSet): TweetSet = ((right union left) union that) incl elem
 
   def mostRetweeted: Tweet = {
+    def max(t1: Tweet, t2: Tweet) = if (t1.retweets > t2.retweets) t1 else t2
     def f(v: Tweet, that: TweetSet): Tweet = {
-      val l = if (left.isInstanceOf[Empty]) v else left.mostRetweeted
-      val r = if (right.isInstanceOf[Empty]) v else right.mostRetweeted
-      if (l.retweets > r.retweets)
-        if (l.retweets > v.retweets) l else v
-      else
-      if (r.retweets > v.retweets) r else v
+      val l = if (left.isEmpty) v else left.mostRetweeted
+      val r = if (right.isEmpty) v else right.mostRetweeted
+      max(v, max(l, r))
     }
     f(elem, this)
   }
 
-  def descendingByRetweet: TweetList = {
+  def isEmpty: Boolean = false
 
+  def descendingByRetweet: TweetList = {
+    if (isEmpty) Nil
+    else {
+      val most = mostRetweeted
+      new Cons(most, remove(most).descendingByRetweet)
+    }
   }
 }
 
@@ -208,6 +215,8 @@ trait TweetList {
       f(head)
       tail.foreach(f)
     }
+
+  override def toString: String = head.toString + ", " + tail.toString
 }
 
 object Nil extends TweetList {
@@ -216,10 +225,14 @@ object Nil extends TweetList {
   def tail = throw new java.util.NoSuchElementException("tail of EmptyList")
 
   def isEmpty = true
+
+  override def toString: String = "[]"
 }
 
 class Cons(val head: Tweet, val tail: TweetList) extends TweetList {
   def isEmpty = false
+
+  override def toString: String = head.toString
 }
 
 
@@ -227,14 +240,14 @@ object GoogleVsApple {
   val google = List("android", "Android", "galaxy", "Galaxy", "nexus", "Nexus")
   val apple = List("ios", "iOS", "iphone", "iPhone", "ipad", "iPad")
 
-  lazy val googleTweets: TweetSet = ???
-  lazy val appleTweets: TweetSet = ???
+  lazy val googleTweets: TweetSet = TweetReader.allTweets.filter(t => google.exists(t.text.contains(_)))
+  lazy val appleTweets: TweetSet = TweetReader.allTweets.filter(t => apple.exists(t.text.contains(_)))
 
   /**
    * A list of all tweets mentioning a keyword from either apple or google,
    * sorted by the number of retweets.
    */
-  lazy val trending: TweetList = ???
+  lazy val trending: TweetList = (googleTweets union appleTweets).descendingByRetweet
 }
 
 object Main extends App {

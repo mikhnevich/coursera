@@ -5,17 +5,7 @@
 [info] - union: set4c and set4d
 [info] - union: with empty set (1)
 [info] - union: with empty set (2)
+[info] - mostRetweeted: set5
 [info] - mostRetweeted: set6
-[info] - descending: set5 *** FAILED ***
-[info]   scala.NotImplementedError: an implementation is missing
-[info]   at scala.Predef$.$qmark$qmark$qmark(Predef.scala:252)
-[info]   at objsets.TweetSet.descendingByRetweet(TweetSet.scala:75)
-[info]   at objsets.TweetSetSuite$$anonfun$8$$anon$8.<init>(TweetSetSuite.scala:76)
-[info]   at objsets.TweetSetSuite$$anonfun$8.apply$mcV$sp(TweetSetSuite.scala:75)
-[info]   at objsets.TweetSetSuite$$anonfun$8.apply(TweetSetSuite.scala:75)
-[info]   at objsets.TweetSetSuite$$anonfun$8.apply(TweetSetSuite.scala:75)
-[info]   at org.scalatest.FunSuite$$anon$1.apply(FunSuite.scala:1265)
-[info]   at org.scalatest.Suite$class.withFixture(Suite.scala:1974)
-[info]   at objsets.TweetSetSuite.withFixture(TweetSetSuite.scala:9)
-[info]   at org.scalatest.FunSuite$class.invokeWithFixture$1(FunSuite.scala:1262)
-[info]   ...
+[info] - mostRetweeted: set6, remove
+[info] - descending: set5
