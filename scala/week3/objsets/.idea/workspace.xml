@@ -4,7 +4,6 @@
     <list default="true" id="f5e27fea-ec86-4158-b0b0-27e06e51289e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/Challenge$.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/Challenge$.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/Challenge.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/Challenge.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Cons.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Cons.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anon$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anon$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$2.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$executeRequest$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$executeRequest$1.class" />
@@ -43,43 +42,17 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$4.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$4.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/DeprectaionForwarder$.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/DeprectaionForwarder$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Empty.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Empty.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/GoogleVsApple$.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/GoogleVsApple$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/GoogleVsApple.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/GoogleVsApple.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Main$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Main$$anonfun$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Main$.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Main$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Main$delayedInit$body.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Main$delayedInit$body.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Nil$.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Nil$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Nil.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Nil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/NonEmpty.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/NonEmpty.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/QueueResult$.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/QueueResult$.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/QueueResult.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/QueueResult.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Tweet.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/Tweet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/TweetList$class.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/TweetList$class.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/TweetList.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/TweetList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/TweetSet.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/objsets/TweetSet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$1$$anon$1.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$1$$anon$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$2$$anon$2.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$2$$anon$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$3$$anon$3.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$3$$anon$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$7$$anon$7.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite$$anonfun$7$$anon$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite.class" afterPath="$PROJECT_DIR$/target/scala-2.10/test-classes/objsets/TweetSetSuite.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/inc_compile" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/inc_compile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/test/inc_compile" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/test/inc_compile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.9.2/sbt-0.12/cache/default-577bef/compile/inc_compile" afterPath="$PROJECT_DIR$/project/target/scala-2.9.2/sbt-0.12/cache/default-577bef/compile/inc_compile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/cache/assignment/compile/inc_compile" afterPath="$PROJECT_DIR$/target/scala-2.10/cache/assignment/compile/inc_compile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/cache/assignment/test/inc_compile" afterPath="$PROJECT_DIR$/target/scala-2.10/cache/assignment/test/inc_compile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/for_packageSubmission/inputs" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/for_packageSubmission/inputs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/global/update/inputs" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/global/update/inputs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/global/update/output" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/global/update/output" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/progfun-recfun_2.10-1.0.0.jar" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/progfun-recfun_2.10-1.0.0.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/.history" afterPath="$PROJECT_DIR$/../../recfun/target/.history" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../funsets/src/main/scala/funsets/FunSets.scala" afterPath="$PROJECT_DIR$/../../funsets/src/main/scala/funsets/FunSets.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala" afterPath="$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala" afterPath="$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/$global/$global/data" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/$global/$global/data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/$global/$global/data" afterPath="$PROJECT_DIR$/target/streams/test/$global/$global/data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/project/target/streams/$global/ivy-configuration/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/project/target/streams/$global/ivy-configuration/$global/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/project/target/streams/$global/update/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/project/target/streams/$global/update/$global/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/project/target/streams/compile/compile/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/project/target/streams/compile/compile/$global/out" />
@@ -104,10 +77,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.BalanceSuite/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.BalanceSuite/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.CountChangeSuite/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.CountChangeSuite/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.PascalSuite/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.PascalSuite/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/defined-tests/$global/out" afterPath="$PROJECT_DIR$/target/streams/test/defined-tests/$global/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/$global/out" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/is-module=false name=objsets.TweetSetSuite/out" afterPath="$PROJECT_DIR$/target/streams/test/test/is-module=false name=objsets.TweetSetSuite/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/project/target/streams/$global/update/$global/out" afterPath="$PROJECT_DIR$/project/project/target/streams/$global/update/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/for_packageSubmission/output" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/for_packageSubmission/output" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile-internal.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile-internal.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile.xml" />
@@ -124,7 +95,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/test/succeeded_tests" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/test/succeeded_tests" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/cache/assignment/test/succeeded_tests" afterPath="$PROJECT_DIR$/target/scala-2.10/cache/assignment/test/succeeded_tests" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../../recfun/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../alg1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../alg1/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../recfun/.idea/workspace.xml" />
@@ -161,11 +131,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TweetSet.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TweetSet.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46275946" vertical-offset="4421" max-vertical-offset="5240">
-              <caret line="240" column="25" selection-start-line="240" selection-start-column="25" selection-end-line="240" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="4421" max-vertical-offset="5240">
+              <caret line="250" column="1" selection-start-line="250" selection-start-column="1" selection-end-line="250" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buildSettings.sbt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/buildSettings.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1500">
+              <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.properties" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project/build.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="862">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -255,10 +245,10 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1272" />
     <option name="y" value="-8" />
     <option name="width" value="1296" />
-    <option name="height" value="1010" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -345,6 +335,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progfun-objsets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="objsets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -363,7 +367,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="LayoutCode.rearrangeEntriesScala" value="false" />
@@ -702,21 +706,25 @@
       <workItem from="1400171118970" duration="2000" />
       <workItem from="1400171138273" duration="8071000" />
       <workItem from="1400246835911" duration="435000" />
-      <workItem from="1400247362274" duration="4684000" />
+      <workItem from="1400247362274" duration="5552000" />
     </task>
     <task id="LOCAL-00001" summary="week3">
       <created>1400190881924</created>
       <updated>1400190881924</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="week3">
+      <created>1400252233518</created>
+      <updated>1400252233518</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14063000" />
+    <option name="totallyTimeSpent" value="14931000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
-    <editor active="false" />
+    <frame x="1272" y="-8" width="1296" height="1040" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -728,7 +736,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287827" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1007,8 +1015,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46275946" vertical-offset="4421" max-vertical-offset="5240">
-          <caret line="240" column="25" selection-start-line="240" selection-start-column="25" selection-end-line="240" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="4421" max-vertical-offset="5240">
+          <caret line="250" column="1" selection-start-line="250" selection-start-column="1" selection-end-line="250" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/buildSettings.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1500">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/build.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="862">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
