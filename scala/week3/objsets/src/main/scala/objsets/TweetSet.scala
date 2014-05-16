@@ -73,6 +73,7 @@ abstract class TweetSet {
    */
   def descendingByRetweet: TweetList
 
+  def mostRetweetedAcc(tweet: Tweet): Tweet
 
   /**
    * The following methods are already implemented
@@ -140,6 +141,9 @@ class Empty extends TweetSet {
   def descendingByRetweet: TweetList = Nil
 
   def isEmpty: Boolean = true
+
+  def mostRetweetedAcc(tweet: Tweet): Tweet = tweet
+
 }
 
 class NonEmpty(elem: Tweet, left: TweetSet, right: TweetSet) extends TweetSet {
@@ -181,25 +185,30 @@ class NonEmpty(elem: Tweet, left: TweetSet, right: TweetSet) extends TweetSet {
    *
    */
   //  def union(that: TweetSet): TweetSet = ((right union left) union that) incl elem
+  //def filterAcc(p: Tweet => Boolean, acc: TweetSet):
+  def mostRetweeted: Tweet = mostRetweetedAcc(elem)
 
-  def mostRetweeted: Tweet = {
-    def max(t1: Tweet, t2: Tweet) = if (t1.retweets > t2.retweets) t1 else t2
-    def f(v: Tweet, that: TweetSet): Tweet = {
-      val l = if (left.isEmpty) v else left.mostRetweeted
-      val r = if (right.isEmpty) v else right.mostRetweeted
-      max(v, max(l, r))
+  def mostRetweetedAcc(tweet: Tweet): Tweet =
+    if (tweet.retweets > elem.retweets) right.mostRetweetedAcc(left.mostRetweetedAcc(tweet))
+    else right.mostRetweetedAcc(left.mostRetweetedAcc(elem))
+
+  /*
+    def mostRetweeted: Tweet = {
+      def max(t1: Tweet, t2: Tweet) = if (t1.retweets > t2.retweets) t1 else t2
+      def f(v: Tweet, that: TweetSet): Tweet = {
+        val l = if (left.isEmpty) v else left.mostRetweeted
+        val r = if (right.isEmpty) v else right.mostRetweeted
+        max(v, max(l, r))
+      }
+      f(elem, this)
     }
-    f(elem, this)
-  }
 
+  */
   def isEmpty: Boolean = false
 
   def descendingByRetweet: TweetList = {
     if (isEmpty) Nil
-    else {
-      val most = mostRetweeted
-      new Cons(most, remove(most).descendingByRetweet)
-    }
+    else new Cons(mostRetweeted, remove(mostRetweeted).descendingByRetweet)
   }
 }
 
