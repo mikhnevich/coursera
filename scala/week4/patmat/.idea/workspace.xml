@@ -2,45 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fdf6283-1bca-47b1-a49c-986b6a3da8a6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT___scala_compiler_bundle_2_10_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_google_code_gson_gson_2_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_netflix_rxjava_rxjava_core_0_15_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_netflix_rxjava_rxjava_scala_0_15_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_ning_async_http_client_1_7_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_squareup_retrofit_retrofit_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_thoughtworks_paranamer_paranamer_2_5_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_10_2_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_testkit_2_10_2_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_config_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__io_netty_netty_3_6_3_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__junit_junit_4_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__net_databinder_dispatch_dispatch_core_2_10_0_11_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_hamcrest_hamcrest_core_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_json4s_json4s_ast_2_10_3_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_json4s_json4s_core_2_10_3_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_json4s_json4s_native_2_10_3_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_mockito_mockito_all_1_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_async_2_10_0_9_0_M2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_actors_2_10_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_compiler_2_10_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_10_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_10_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_swing_2_10_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scalap_2_10_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_tools_testing_test_interface_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalacheck_scalacheck_2_10_1_10_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalatest_scalatest_2_10_1_9_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_slf4j_slf4j_api_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_slf4j_slf4j_simple_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Test.sc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/assignment-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/assignment.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/highlighting.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/submission-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/submission.iml" />
-      <change type="DELETED" beforePath="C:\work\projects\java\coursera\scala\week4\patmat\lib_managed\jars\org.scala-lang\scala-actors\scala-actors-2.10.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\work\projects\java\coursera\scala\week4\patmat\lib_managed\jars\org.scala-lang\scala-reflect\scala-reflect-2.10.0.jar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/Challenge$.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/Challenge$.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/Challenge.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/Challenge.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anon$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anon$1.class" />
@@ -92,10 +53,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/.history" afterPath="$PROJECT_DIR$/../../recfun/target/.history" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../funsets/src/main/scala/funsets/FunSets.scala" afterPath="$PROJECT_DIR$/../../funsets/src/main/scala/funsets/FunSets.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala" afterPath="$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala" afterPath="$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/Test.sc" afterPath="$PROJECT_DIR$/src/main/scala/Test.sc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/$global/$global/data" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/$global/$global/data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/project/target/streams/$global/ivy-configuration/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/project/target/streams/$global/ivy-configuration/$global/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/project/target/streams/$global/update/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/project/target/streams/$global/update/$global/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/project/target/streams/compile/compile/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/project/target/streams/compile/compile/$global/out" />
@@ -137,7 +96,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/test/succeeded_tests" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/test/succeeded_tests" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../../recfun/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../alg1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../alg1/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../recfun/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/objsets/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../week3/objsets/.idea/workspace.xml" />
@@ -167,8 +125,8 @@
       <file leaf-file-name="Huffman.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22131148" vertical-offset="4052" max-vertical-offset="5300">
-              <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
+            <state vertical-scroll-proportion="1.9672132" vertical-offset="4580" max-vertical-offset="5660">
+              <caret line="277" column="0" selection-start-line="277" selection-start-column="0" selection-end-line="277" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -177,18 +135,8 @@
       <file leaf-file-name="Test.sc" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Test.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.57522124" vertical-offset="0" max-vertical-offset="452">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HuffmanSuite.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="107" max-vertical-offset="960">
-              <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.3233831" vertical-offset="0" max-vertical-offset="804">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -562,12 +510,17 @@
       <updated>1400709820981</updated>
       <workItem from="1400709823666" duration="1706000" />
       <workItem from="1400791301862" duration="8105000" />
-      <workItem from="1401211942502" duration="8481000" />
+      <workItem from="1401211942502" duration="11087000" />
     </task>
+    <task id="LOCAL-00001" summary="week4">
+      <created>1401461828734</created>
+      <updated>1401461828734</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18292000" />
+    <option name="totallyTimeSpent" value="20898000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
@@ -581,7 +534,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -619,6 +572,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="week4" />
+    <option name="LAST_COMMIT_MESSAGE" value="week4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -646,7 +601,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="107" max-vertical-offset="960">
+        <state vertical-scroll-proportion="0.6014068" vertical-offset="107" max-vertical-offset="960">
           <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
           <folding />
         </state>
@@ -654,16 +609,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Test.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57522124" vertical-offset="0" max-vertical-offset="452">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.3233831" vertical-offset="0" max-vertical-offset="804">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22131148" vertical-offset="4052" max-vertical-offset="5300">
-          <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
+        <state vertical-scroll-proportion="1.9672132" vertical-offset="4580" max-vertical-offset="5660">
+          <caret line="277" column="0" selection-start-line="277" selection-start-column="0" selection-end-line="277" selection-end-column="0" />
           <folding />
         </state>
       </provider>
