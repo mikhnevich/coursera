@@ -1,7 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fdf6283-1bca-47b1-a49c-986b6a3da8a6" name="Default" comment="" />
+    <list default="true" id="6fdf6283-1bca-47b1-a49c-986b6a3da8a6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT___scala_compiler_bundle_2_10_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_google_code_gson_gson_2_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_netflix_rxjava_rxjava_core_0_15_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_netflix_rxjava_rxjava_scala_0_15_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_ning_async_http_client_1_7_16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_squareup_retrofit_retrofit_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_thoughtworks_paranamer_paranamer_2_5_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_10_2_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_testkit_2_10_2_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_config_1_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__io_netty_netty_3_6_3_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__junit_junit_4_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__net_databinder_dispatch_dispatch_core_2_10_0_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_hamcrest_hamcrest_core_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_json4s_json4s_ast_2_10_3_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_json4s_json4s_core_2_10_3_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_json4s_json4s_native_2_10_3_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_mockito_mockito_all_1_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_async_2_10_0_9_0_M2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_actors_2_10_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_compiler_2_10_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_10_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_10_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_swing_2_10_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scalap_2_10_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_tools_testing_test_interface_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalacheck_scalacheck_2_10_1_10_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalatest_scalatest_2_10_1_9_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_slf4j_slf4j_api_1_7_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_slf4j_slf4j_simple_1_7_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Test.sc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/assignment-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/assignment.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/highlighting.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/submission-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/submission.iml" />
+      <change type="DELETED" beforePath="C:\work\projects\java\coursera\scala\week4\patmat\lib_managed\jars\org.scala-lang\scala-actors\scala-actors-2.10.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\work\projects\java\coursera\scala\week4\patmat\lib_managed\jars\org.scala-lang\scala-reflect\scala-reflect-2.10.0.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/Challenge$.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/Challenge$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/Challenge.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/Challenge.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anon$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anon$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$2.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$executeRequest$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$executeRequest$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$executeRequest$2.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$executeRequest$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$executeRequest$3.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$executeRequest$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$extractJson$1$$anonfun$apply$6.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$extractJson$1$$anonfun$apply$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$extractJson$1$$anonfun$liftedTree2$1$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$extractJson$1$$anonfun$liftedTree2$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$extractJson$1$$anonfun$liftedTree2$1$2.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$extractJson$1$$anonfun$liftedTree2$1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$extractJson$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$extractJson$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$fullExceptionString$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$fullExceptionString$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$getChallenge$1$$anonfun$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$getChallenge$1$$anonfun$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$getChallenge$1$$anonfun$apply$2.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$getChallenge$1$$anonfun$apply$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$getChallenge$1$$anonfun$apply$3.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$getChallenge$1$$anonfun$apply$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$getChallenge$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$getChallenge$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$liftedTree1$1$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$liftedTree1$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$liftedTree1$1$2.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$liftedTree1$1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$liftedTree1$1$3.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$liftedTree1$1$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$1$$anonfun$apply$7.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$1$$anonfun$apply$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$10.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$11.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$8$$anonfun$apply$9.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$8$$anonfun$apply$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$8.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitGrade$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$2.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$3.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$4.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$5$$anonfun$apply$4.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$5$$anonfun$apply$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$5$$anonfun$apply$5.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$5$$anonfun$apply$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$5.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$submitSolution$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$1.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$2.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$3.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$4.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$$anonfun$unpackJar$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/CourseraHttp$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/DeprectaionForwarder$.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/DeprectaionForwarder$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/QueueResult$.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/QueueResult$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/QueueResult.class" afterPath="$PROJECT_DIR$/../../recfun/project/target/scala-2.9.2/sbt-0.12/classes/QueueResult.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/inc_compile" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/inc_compile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/test/inc_compile" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/test/inc_compile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/for_packageSubmission/inputs" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/for_packageSubmission/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/global/update/inputs" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/global/update/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/global/update/output" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/global/update/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/progfun-recfun_2.10-1.0.0.jar" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/progfun-recfun_2.10-1.0.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/.history" afterPath="$PROJECT_DIR$/../../recfun/target/.history" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../funsets/src/main/scala/funsets/FunSets.scala" afterPath="$PROJECT_DIR$/../../funsets/src/main/scala/funsets/FunSets.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala" afterPath="$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala" afterPath="$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/$global/$global/data" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/$global/$global/data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/project/target/streams/$global/ivy-configuration/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/project/target/streams/$global/ivy-configuration/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/project/target/streams/$global/update/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/project/target/streams/$global/update/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/project/target/streams/compile/compile/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/project/target/streams/compile/compile/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/project/target/streams/compile/copy-resources/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/project/target/streams/compile/copy-resources/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/streams/$global/compilers/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/target/streams/$global/compilers/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/streams/$global/ivy-configuration/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/target/streams/$global/ivy-configuration/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/streams/$global/update/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/target/streams/$global/update/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/streams/compile/compile/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/target/streams/compile/compile/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/project/target/streams/compile/copy-resources/$global/out" afterPath="$PROJECT_DIR$/../../recfun/project/target/streams/compile/copy-resources/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/$global/compilers/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/$global/compilers/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/$global/ivy-configuration/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/$global/ivy-configuration/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/$global/submit/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/$global/submit/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/$global/update/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/$global/update/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/compile/compile/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/compile/compile/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/compile/copy-resources/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/compile/copy-resources/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/compile/packageSubmission/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/compile/packageSubmission/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/compile/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/compile/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/copy-resources/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/copy-resources/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/defined-tests/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/defined-tests/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/loaded-test-frameworks/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/loaded-test-frameworks/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/test/$global/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/test/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.BalanceSuite/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.BalanceSuite/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.CountChangeSuite/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.CountChangeSuite/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.PascalSuite/out" afterPath="$PROJECT_DIR$/../../recfun/target/streams/test/test/is-module=false name=recfun.PascalSuite/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/for_packageSubmission/output" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/compile/for_packageSubmission/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile-internal.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-docs.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-optional.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-plugin.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-pom.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-provided.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-runtime-internal.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-runtime.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-sources.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-test-internal.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-test.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/../../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/test/succeeded_tests" afterPath="$PROJECT_DIR$/../../recfun/target/scala-2.10/cache/assignment/test/succeeded_tests" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../../recfun/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../alg1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../alg1/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../recfun/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../recfun/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/objsets/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../week3/objsets/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="progfun-patmat.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,11 +164,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Test.sc" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Huffman.scala" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.22131148" vertical-offset="4052" max-vertical-offset="5300">
+              <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.sc" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Test.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44802344" vertical-offset="0" max-vertical-offset="696">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.57522124" vertical-offset="0" max-vertical-offset="452">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HuffmanSuite.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="107" max-vertical-offset="960">
+              <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -40,6 +201,9 @@
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
       <map>
@@ -50,16 +214,23 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/src/main/scala/patmat/Boolean.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/patmat/Natural.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/patmat/Boolean.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/patmat/MyBoolean.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Test.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
-    <option name="width" value="1604" />
-    <option name="height" value="876" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1010" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -85,8 +256,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -102,7 +271,7 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="patmat" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -112,37 +281,81 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="patmat" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="progfun-patmat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="patmat" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="patmat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HuffmanSuite.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progfun-patmat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="patmat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progfun-patmat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="patmat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="patmat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,40 +365,14 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="/opt/scala-2.11.0/lib/scala-compiler.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="LayoutCode.rearrangeEntriesScala" value="false" />
-    <property name="options.lastSelected" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.scala.compiler.ScalaApplicationSettingsForm" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="FullScreen" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="LayoutCode.rearrangeEntriesScala" value="false" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -194,33 +381,7 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
-    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <extension name="scalaCoverage" />
       <module name="" />
@@ -235,34 +396,7 @@
       <setting name="showProgressMessages" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -293,79 +427,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -379,7 +440,58 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
-    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <extension name="scalaCoverage" />
       <module name="" />
@@ -400,49 +512,95 @@
       <Port>5050</Port>
     </configuration>
   </component>
+  <component name="SbtLocalSettings">
+    <option name="tasksExpandState">
+      <map>
+        <entry key="" value="true" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun-patmat" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="assignment" />
+                <option name="path" value="C:\work\projects\java\coursera\scala\week4\patmat" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="submission" />
+                <option name="path" value="C:\work\projects\java\coursera\scala\week4\patmat\submission" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="assignment-build" />
+                <option name="path" value="C:\work\projects\java\coursera\scala\week4\patmat\project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="submission-build" />
+                <option name="path" value="C:\work\projects\java\coursera\scala\week4\patmat\submission\project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6fdf6283-1bca-47b1-a49c-986b6a3da8a6" name="Default" comment="" />
       <created>1400709820981</created>
       <updated>1400709820981</updated>
       <workItem from="1400709823666" duration="1706000" />
+      <workItem from="1400791301862" duration="8105000" />
+      <workItem from="1401211942502" duration="8481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1706000" />
+    <option name="totallyTimeSpent" value="18292000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="1604" height="876" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938075" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24967907" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40045506" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17152104" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -472,8 +630,40 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/Test.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44802344" vertical-offset="0" max-vertical-offset="696">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="320">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.10.2/lib/scala-library.jar!/scala/package.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1560">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="107" max-vertical-offset="960">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57522124" vertical-offset="0" max-vertical-offset="452">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22131148" vertical-offset="4052" max-vertical-offset="5300">
+          <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
           <folding />
         </state>
       </provider>
