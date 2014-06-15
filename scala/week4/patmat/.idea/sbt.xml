@@ -4,6 +4,17 @@
     <option name="linkedExternalProjectsSettings">
       <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
+=======
+        <option name="modules">
+          <set>
+            <option value="C:\work\projects\java\coursera\scala\week4\patmat" />
+            <option value="C:\work\projects\java\coursera\scala\week4\patmat\project" />
+            <option value="C:\work\projects\java\coursera\scala\week4\patmat\submission" />
+            <option value="C:\work\projects\java\coursera\scala\week4\patmat\submission\project" />
+          </set>
+        </option>
+>>>>>>> fe80b4edbc6f26ad96fd6006220ab7d5d4627ba0
       </SbtProjectSettings>
     </option>
   </component>
