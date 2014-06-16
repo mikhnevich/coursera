@@ -78,15 +78,16 @@ object Anagrams {
     * Note that the order of the occurrence list subsets does not matter -- the subsets
     * in the example above could have been displayed in some other order.
     */
-  def combinations(occurrences: Occurrences): List[Occurrences] = ???
-/*
-  {
-    val n = occurrences.size
-    for {
-      i <- 1 to occurrences.size
-    } yield occurrences.combinations(i)
+  def combinations(occurrences: Occurrences): List[Occurrences] = {
+    List() :: (
+      for {
+        (char, count) <- occurrences
+        index <- 1 to count
+        rest <- combinations(occurrences.filter(p => p._1 > char))
+      } yield List((char, index)) ++ rest
+      )
   }
-*/
+
 
   /** Subtracts occurrence list `y` from occurrence list `x`.
     *
@@ -98,7 +99,18 @@ object Anagrams {
     * Note: the resulting value is an occurrence - meaning it is sorted
     * and has no zero-entries.
     */
-  def subtract(x: Occurrences, y: Occurrences): Occurrences = ???
+  def subtract(x: Occurrences, y: Occurrences): Occurrences = {
+    val yMap = y.toMap
+    (for {(char, count) <- x} yield (char, count - (yMap.get(char) getOrElse 0))).filter(p => p._2 > 0)
+  }
+
+  def subtract2(x: Occurrences, y: Occurrences): Occurrences = {
+    val yMap = y.toMap.withDefaultValue(0);
+    x.toMap.foldLeft(Map[Char, Int]())((map, pair) => map.updated(pair._1,
+      pair._2 - yMap(pair._1)
+    )).filter(p => p._2 > 0).toList.sortBy(p => p._1)
+    //(for {(char, count) <- x} yield (char, count - (yMap.get(char) getOrElse 0))).filter(p => p._2 > 0)
+  }
 
   /** Returns a list of all anagram sentences of the given sentence.
     *
@@ -140,6 +152,51 @@ object Anagrams {
     *
     * Note: There is only one anagram of an empty sentence.
     */
-  def sentenceAnagrams(sentence: Sentence): List[Sentence] = ???
+  def sentenceAnagrams(sentence: Sentence): List[Sentence] = {
+    // for every combination - find Word + (occurrences - current combination)
+    def getWords(occurrences: Occurrences): List[Sentence] = occurrences match {
+      case Nil => List(List())
+      case _ => {
+        for {
+          c <- combinations(occurrences)
+          if (dictionaryByOccurrences.contains(c))
+          word <- dictionaryByOccurrences(c)
+          tail <- getWords(subtract(occurrences, c))
+        } yield word :: tail
+      }
+    }
+
+    getWords(sentenceOccurrences(sentence))
+
+  }
+
+  def sentenceAnagramsMemo(sentence: Sentence): List[Sentence] = {
+    val cache = scala.collection.mutable.Map[Occurrences, List[Sentence]]()
+
+    // for every combination - find Word + (occurrences - current combination)
+    def getWords(cache: Map[Occurrences, List[Sentence]], occurrences: Occurrences): (Map[Occurrences, List[Sentence]], List[Sentence]) = occurrences match {
+      case Nil => (cache, List(List()))
+      case _ => {
+        if (cache.contains(occurrences)) {
+          val v = cache.get(occurrences)
+          println("found")
+          (cache, cache(occurrences))
+        } else {
+          val list = for {
+            c <- combinations(occurrences)
+            if dictionaryByOccurrences.contains(c)
+            word <- dictionaryByOccurrences(c)
+            (cache, tail) <- getWords(cache, subtract(occurrences, c))
+
+          } yield word :: tail
+
+          (cache.updated(occurrences, list), list)
+        }
+      }
+    }
+
+    val (cache, result) = getWords(Map(), sentenceOccurrences(sentence))
+    result
+  }
 
 }
