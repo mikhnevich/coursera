@@ -69,7 +69,7 @@ trait StringParserTerrain extends GameDef {
     Pos(x, y)
   }
 
-  private lazy val vector: Vector[Vector[Char]] =
+  protected lazy val vector: Vector[Vector[Char]] =
     Vector(level.split("\n").map(str => Vector(str: _*)): _*)
 
   lazy val terrain: Terrain = terrainFunction(vector)

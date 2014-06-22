@@ -104,15 +104,101 @@ class BloxorzSuite extends FunSuite {
         |------------ooo""".stripMargin
 
     val optsolution = List(Up, Left, Down, Right, Up, Right, Right, Right, Right, Up, Up, Right, Right, Right, Down, Down, Down, Right, Up)
-
   }
 
   test("optimal solution for level 3") {
     new Level3 {
       val foundSolution = solve(solution)
-      //info("Found solution: " + foundSolution)
+      info("Found solution: " + solution)
+
       assert(foundSolution == Block(goal, goal), "Found solution: " + foundSolution)
       assert(solution.length == optsolution.length)
+      assert(solution == optsolution)
+    }
+  }
+
+
+
+  trait Level1V extends Level1 with SolutionVisualizer {}
+
+  trait SolutionVisualizer extends GameDef with Solver with StringParserTerrain {
+    def clearScreen: Unit = print("\033[2J\033[1;1H")
+    def cursorOff: Unit = print("\033[?25l")
+    def cursorOn: Unit = print("\033[?25h")
+    def printAt(x: Int, y: Int, c: Char): Unit = {
+      print("\033[" + (x + 1) + ";" + (y + 1) + "H" + c)
+    }
+
+    def printBlock(b: Block, c: Char): Unit = {
+      def clearAndPrintAt(p: Pos, c: Char): Unit = {
+        if (c == '\000') printAt(p.x, p.y, vector(p.x)(p.y))
+        else printAt(p.x, p.y, c)
+      }
+
+      if (!b.isStanding) {
+        clearAndPrintAt(b.b1, c)
+      }
+      clearAndPrintAt(b.b2, c)
+    }
+
+    def displayBlock(b: Block): Unit = {
+      printBlock(b, '#')
+      Thread.sleep(1000)
+      printBlock(b, '\000')
+    }
+
+    def displayTerrain(levelVector: Vector[Vector[Char]]): Unit = {
+      for (i <- 0 to levelVector.size - 1; j <- 0 to levelVector(i).size - 1) {
+        printAt(i, j, levelVector(i)(j))
+      }
+      println
+    }
+
+    def displaySolution(ls: List[Move]): Unit = {
+      clearScreen
+      cursorOff
+      displayTerrain(vector)
+      ls.foldLeft(startBlock) {
+        case (block, move) => move match {
+          case Left => { displayBlock(block); block.left }
+          case Right => { displayBlock(block); block.right }
+          case Up => { displayBlock(block); block.up }
+          case Down => { displayBlock(block); block.down }
+        }
+      }
+      displayTerrain(vector)
+      cursorOn
+    }
+
+  }
+
+  test("display solution Level1V") {
+    new Level1V {
+      displaySolution(solution)
+    }
+  }
+
+  trait Level6V extends SolutionVisualizer {
+
+    val level =
+      """-----oooooo
+        |-----o--ooo
+        |-----o--ooooo
+        |Sooooo-----oooo
+        |----ooo----ooTo
+        |----ooo-----ooo
+        |------o--oo
+        |------ooooo
+        |------ooooo
+        |-------ooo""".stripMargin
+
+    //    val optsolution = ...
+  }
+
+  test("display solution Level6") {
+    new Level6V {
+      displaySolution(solution)
+      println(solution)
     }
   }
 
