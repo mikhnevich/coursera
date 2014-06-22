@@ -186,16 +186,16 @@ object Anagrams {
             c <- combinations(occurrences)
             if dictionaryByOccurrences.contains(c)
             word <- dictionaryByOccurrences(c)
-            (cache, tail) <- getWords(cache, subtract(occurrences, c))
+            (updatedCache, tail: List[Sentence]) <- getWords(cache, subtract(occurrences, c))
 
           } yield word :: tail
 
-          (cache.updated(occurrences, list), list)
+          (updatedCache.updated(occurrences, list), list)
         }
       }
     }
 
-    val (cache, result) = getWords(Map(), sentenceOccurrences(sentence))
+    val (c, result) = getWords(Map(), sentenceOccurrences(sentence))
     result
   }
 

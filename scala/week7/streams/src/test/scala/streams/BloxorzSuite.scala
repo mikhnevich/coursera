@@ -23,39 +23,66 @@ class BloxorzSuite extends FunSuite {
         case Up => block.up
         case Down => block.down
       }
-    }
+      }
   }
 
   trait Level1 extends SolutionChecker {
-      /* terrain for level 1*/
+    /* terrain for level 1*/
 
     val level =
-    """ooo-------
-      |oSoooo----
-      |ooooooooo-
-      |-ooooooooo
-      |-----ooToo
-      |------ooo-""".stripMargin
+      """ooo-------
+        |oSoooo----
+        |ooooooooo-
+        |-ooooooooo
+        |-----ooToo
+        |------ooo-""".stripMargin
 
     val optsolution = List(Right, Right, Down, Right, Right, Right, Down)
   }
 
   test("terrain function level 1") {
     new Level1 {
-      assert(terrain(Pos(0,0)), "0,0")
-      assert(!terrain(Pos(4,11)), "4,11")
+      assert(terrain(Pos(0, 0)), "0,0")
+      assert(!terrain(Pos(4, 11)), "4,11")
     }
   }
 
   test("findChar level 1") {
     new Level1 {
-      assert(startPos == Pos(1,1))
+      assert(startPos == Pos(1, 1))
+    }
+  }
+
+  test("neighborsWithHistory") {
+    new Level1 {
+      val testBlock = new Block(Pos(1, 1), Pos(1, 1))
+      val stream = neighborsWithHistory(testBlock, List(Left, Up))
+      val set = stream.toSet
+      assert(set.size == 2)
+      assert(set.contains((Block(Pos(1, 2), Pos(1, 3)), List(Right, Left, Up))))
+      assert(set.contains((Block(Pos(2, 1), Pos(3, 1)), List(Down, Left, Up))))
+    }
+  }
+
+
+  test("newNeighborsOnly") {
+    new Level1 {
+      val t = newNeighborsOnly(
+        Set(
+          (Block(Pos(1,2),Pos(1,3)), List(Right,Left,Up)),
+          (Block(Pos(2,1),Pos(3,1)), List(Down,Left,Up))
+        ).toStream,
+        Set(Block(Pos(1,2),Pos(1,3)), Block(Pos(1,1),Pos(1,1)))
+      )
+      assert(t == Set((Block(Pos(2,1),Pos(3,1)), List(Down,Left,Up))).toStream)
     }
   }
 
   test("optimal solution for level 1") {
     new Level1 {
-      assert(solve(solution) == Block(goal, goal))
+      val foundSolution = solve(solution)
+      //info("Found solution: " + foundSolution)
+      assert(foundSolution == Block(goal, goal), "Found solution: " + foundSolution)
     }
   }
 
