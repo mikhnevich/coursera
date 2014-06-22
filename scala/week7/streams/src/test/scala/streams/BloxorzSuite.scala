@@ -91,4 +91,30 @@ class BloxorzSuite extends FunSuite {
       assert(solution.length == optsolution.length)
     }
   }
+
+  trait Level3 extends SolutionChecker {
+    /* terrain for level 3*/
+
+    val level =
+      """------ooooooo--
+        |oooo--ooo--oo--
+        |ooooooooo--oooo
+        |oSoo-------ooTo
+        |oooo-------oooo
+        |------------ooo""".stripMargin
+
+    val optsolution = List(Up, Left, Down, Right, Up, Right, Right, Right, Right, Up, Up, Right, Right, Right, Down, Down, Down, Right, Up)
+
+  }
+
+  test("optimal solution for level 3") {
+    new Level3 {
+      val foundSolution = solve(solution)
+      //info("Found solution: " + foundSolution)
+      assert(foundSolution == Block(goal, goal), "Found solution: " + foundSolution)
+      assert(solution.length == optsolution.length)
+    }
+  }
+
+
 }
