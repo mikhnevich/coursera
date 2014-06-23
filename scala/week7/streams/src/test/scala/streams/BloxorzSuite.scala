@@ -119,6 +119,7 @@ class BloxorzSuite extends FunSuite {
 
 
 
+/*
   trait Level1V extends Level1 with SolutionVisualizer {}
 
   trait SolutionVisualizer extends GameDef with Solver with StringParserTerrain {
@@ -201,6 +202,49 @@ class BloxorzSuite extends FunSuite {
       println(solution)
     }
   }
+*/
 
+  trait InfiniteSolutionChecker extends GameDef with Solver with InfiniteTerrain {
+    /**
+     * This method applies a list of moves `ls` to the block at position
+     * `startPos`. This can be used to verify if a certain list of moves
+     * is a valid solution, i.e. leads to the goal.
+     */
+    def solve(ls: List[Move]): Block =
+      ls.foldLeft(startBlock) { case (block, move) => move match {
+        case Left => block.left
+        case Right => block.right
+        case Up => block.up
+        case Down => block.down
+      }
+      }
+  }
+
+
+  trait Level1Infinite extends InfiniteSolutionChecker {
+//     terrain for level 1
+
+    val startPos = new Pos(1,1)
+    val goal = new Pos(4,7)
+
+    val level =
+      """ooo-------
+        |oSoooo----
+        |ooooooooo-
+        |-ooooooooo
+        |-----ooToo
+        |------ooo-""".stripMargin
+
+    val optsolution = List(Right, Right, Down, Right, Right, Right, Down)
+  }
+
+
+  test("optimal solution for level 1 - infinite terrain") {
+    new Level1Infinite {
+      info(solution.toString)
+      assert(solution.length == optsolution.length, solution.length)
+      assert(solve(solution) == Block(goal, goal))
+    }
+  }
 
 }
