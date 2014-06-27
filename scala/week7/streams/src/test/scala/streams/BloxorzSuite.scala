@@ -7,7 +7,8 @@ import org.scalatest.concurrent.Timeouts
 import org.scalatest.junit.JUnitRunner
 
 import Bloxorz._
-import org.scalatest.time.{Seconds, Span}
+import org.scalatest.time.{Milliseconds, Seconds, Span}
+import org.scalatest.time.SpanSugar._
 
 @RunWith(classOf[JUnitRunner])
 class BloxorzSuite extends FunSuite with Timeouts {
@@ -94,30 +95,30 @@ class BloxorzSuite extends FunSuite with Timeouts {
     }
   }
 
-    trait Level3 extends SolutionChecker {
-      /* terrain for level 3*/
+  trait Level3 extends SolutionChecker {
+    /* terrain for level 3*/
 
-      val level =
-        """------ooooooo--
-          |oooo--ooo--oo--
-          |ooooooooo--oooo
-          |oSoo-------ooTo
-          |oooo-------oooo
-          |------------ooo""".stripMargin
+    val level =
+      """------ooooooo--
+        |oooo--ooo--oo--
+        |ooooooooo--oooo
+        |oSoo-------ooTo
+        |oooo-------oooo
+        |------------ooo""".stripMargin
 
-      val optsolution = List(Right, Up, Right, Right, Right, Up, Left, Down, Right, Up, Up, Right, Right, Right, Down, Down, Down, Right, Up)
+    val optsolution = List(Right, Up, Right, Right, Right, Up, Left, Down, Right, Up, Up, Right, Right, Right, Down, Down, Down, Right, Up)
+  }
+
+  test("optimal solution for level 3") {
+    new Level3 {
+      val foundSolution = solve(solution)
+      info("Found solution: " + solution)
+
+      assert(foundSolution == Block(goal, goal), "Found solution: " + solution)
+      assert(solution.length == optsolution.length)
+      assert(solution == optsolution)
     }
-
-    test("optimal solution for level 3") {
-      new Level3 {
-        val foundSolution = solve(solution)
-        info("Found solution: " + solution)
-
-        assert(foundSolution == Block(goal, goal), "Found solution: " + solution)
-        assert(solution.length == optsolution.length)
-        assert(solution == optsolution)
-      }
-    }
+  }
 
 
   /*
@@ -252,32 +253,40 @@ class BloxorzSuite extends FunSuite with Timeouts {
   trait NoSolution extends SolutionChecker {
     /* terrain for level 1*/
 
-//    val level =
-//      """ooST
-//        |--""".stripMargin
-//
-        val level =
-          """ooo-------
-            |oSoooo----
-            |ooooooooo-
-            |-oooooo-oo
-            |-----o-T-o
-            |------o-o-""".stripMargin
+    //    val level =
+    //      """ooST
+    //        |--""".stripMargin
+    //
+    val level =
+      """ooo-------
+        |oSoooo----
+        |ooooooooo-
+        |-oooooo-oo
+        |-----o-T-o
+        |------o-o-""".stripMargin
 
   }
 
-  failAfter(Span(5, Seconds))(
-  {
-    test("no solution") {
-      new NoSolution {
-        info("Solution block: " + solve(solution))
-        info("Solution: " + solution.toString)
-        assert(solve(solution) == startBlock)
-        assert(solution == List())
-      }
+  trait InfiniteNoSolution extends InfiniteSolutionChecker {
+    val startPos = new Pos(1, 1)
+    val goal = new Pos(4, 7)
+    override val terrain: Terrain = (pos: Pos) => pos match {
+      case Pos(0, 1) => false
+      case Pos(1, 0) => false
+      case Pos(1, 2) => false
+      case Pos(2, 1) => false
+      case _ => true
     }
   }
-  )
 
 
+  failAfter(Span(20, Seconds)) {
+    new InfiniteNoSolution {
+      info("Infinite no solution")
+      info("Solution block: " + solve(solution))
+      info("Solution: " + solution.toString)
+      assert(solve(solution) == startBlock)
+      assert(solution == List())
+    }
+  }
 }
